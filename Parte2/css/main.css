@@ -1,0 +1,20 @@
+	.block{
+	float: left;
+	padding: 50px 50px;
+	width: 60px;
+	height: 20px;
+	}
+	.dad{
+	width: 600px;
+	border: 1px solid grey;
+	
+	}
+	.yellow{
+	background-color: #FFFF00;
+	}
+	.blue{
+	background-color: #3A81BA;
+	}
+	.pink{
+	background-color: #ED2251;
+	}
